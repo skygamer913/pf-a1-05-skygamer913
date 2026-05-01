@@ -2,4 +2,4 @@
 
 
 
-STATUS: Operando com novas rotas para a Europa. [HOTFIX: overflow do painel corrigido]
+STATUS: Operando com novas rotas para a Europa. [HOTFIX: overflow do painel corrigido]Regra: 23kg por passageiro
